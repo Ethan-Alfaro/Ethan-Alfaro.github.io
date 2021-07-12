@@ -1,0 +1,33 @@
+#skills {
+  width: 40%;
+  height: 80%;
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#separator2 {
+  width: 70%;
+  height: 2px;
+  color: rgb(39, 39, 39);
+}
+.Titles {
+  color: rgb(39, 39, 39);
+  margin-left: 45%;
+}
+#skillsContainer {
+  width: 100%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  padding-left: 15%;
+  box-sizing: border-box;
+  align-items: center;
+}
+.skillsIcons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}

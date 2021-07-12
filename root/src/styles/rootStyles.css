@@ -1,0 +1,9 @@
+#skillsAndContact {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  border: 1px solid red;
+  margin-top: 10px;
+  justify-content: space-around;
+  align-items: center;
+}

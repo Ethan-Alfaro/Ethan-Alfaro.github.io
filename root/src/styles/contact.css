@@ -1,0 +1,11 @@
+#contactForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#separator3 {
+  width: 40%;
+  height: 2px;
+  color: black;
+}

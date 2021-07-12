@@ -1,0 +1,52 @@
+#projects {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projectCard {
+  width: 80%;
+  height: 80%;
+  margin-left: 10%;
+  display: flex;
+  background-color: rgb(230, 230, 230);
+  flex-direction: column;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  -webkit-box-shadow: 14px 14px 11px -4px rgba(0, 111, 209, 1);
+  -moz-box-shadow: 14px 14px 11px -4px rgba(0, 111, 209, 1);
+  box-shadow: 14px 14px 11px -4px rgba(0, 111, 209, 1);
+}
+.projectName {
+  width: 80%;
+  margin-left: 10%;
+  height: 50px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.projectDemo {
+  width: 90%;
+  height: 200px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.projectGif {
+  width: 80%;
+  height: 80%;
+  margin-left: 10%;
+}
+.projectFooter {
+  width: 80%;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+}

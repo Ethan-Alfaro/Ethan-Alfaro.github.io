@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "e-comerce",
+    "gif": "./src/img/e-comerce.gif",
+    "technologies": "React,JSX,JS"
+  },
+  {
+    "id": "2",
+    "title": "Rick & Morty Api",
+    "gif": "./src/img/rick-and-morty-api.gif",
+    "technologies": "React,JSX,JS"
+  },
+  {
+    "id": "3",
+    "title": "Instagram Clone",
+    "gif": "./src/img/instagramClone.gif",
+    "technologies": "React,JSX,JS"
+  },
+  {
+    "id": "4",
+    "title": "Hunt The Digglet",
+    "gif": "./src/img/hunt-the-digglet.gif",
+    "technologies": "React,JSX,JS"
+  }
+]
